@@ -1,1 +1,1 @@
-Adicionando um texto
+console.log("Hello World!")
